@@ -1,0 +1,4 @@
+web: 
+  volumes:
+   - ./:/app/
+   - /app/node_modules

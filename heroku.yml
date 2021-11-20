@@ -2,4 +2,7 @@ build:
   docker:
     web: Dockerfile
 run:
-  web: bundle exec puma -C config/puma.rb
+  web: docker run -d -p 8000:8000 exporte
+   worker:
+    command: node index.js
+    image: web

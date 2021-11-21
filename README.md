@@ -10,7 +10,6 @@
 <p><b>CMD</b> -  Comando para inicializar o servidor</p>
 <p> Para criamos uma imagem em Docker, precisamos informar o nome do nossa imagem e o diretorio no comando:<br>
 <b>$docker build -t atividade-container-eng .</b></p>
-![image](https://user-images.githubusercontent.com/42754908/142762468-ac4adabb-5015-41be-8362-0facbdcb6c43.png)
 
 Para visualizamos se foi criado, podemos digitar no terminar:<br>
 <b>$ docker images</b> <br>![imagens](https://user-images.githubusercontent.com/42754908/142762410-f59d7a39-8e26-4c77-b5f2-e67cdebed046.png)

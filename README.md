@@ -13,7 +13,6 @@
 
 Para visualizamos se foi criado, podemos digitar no terminar:<br>
 <b>$ docker images</b> <br>![imagens](https://user-images.githubusercontent.com/42754908/142761896-a0b56c72-29d5-4cd9-b000-4e43fd43e2af.png)
-
 <br>
 Ou podemos visualizar atravez do sotware que foi instalado na nossa maquina<br>
 ![dockerimagens](https://user-images.githubusercontent.com/42754908/142761986-9a9366e4-ccbd-42c1-82b9-2af68c36b10d.png)

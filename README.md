@@ -29,10 +29,13 @@ http://localhost/<br>
 ![dados](https://user-images.githubusercontent.com/42754908/142762666-aeb8a446-b64d-404e-b003-8c4ea8a221a6.png)<br>
 Nossa aplicação tem uma funcionalidade, na qual, vai gerar uma cnpj  e retornar um cnpj válido.<br>
 <h2>Subir a aplicação para o Heroku</h2>
-Para criar uma aplicação, podemos ir direto no sites deles e criar.<br>
+Para criar uma aplicação, podemos ir direto no sites, efetuar o login e depois vai ter uma opção para criar.<br>
 ![criar aplicação](https://user-images.githubusercontent.com/42754908/142762949-5f9e9b68-ae35-463d-9d6f-d05497eb028a.png)
+![create](https://user-images.githubusercontent.com/42754908/142763007-59f19bad-c68f-4c0a-8354-60cfe4dde941.png)
+
 
 
 <h2>Bibliografia </h2>
 https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/
 https://stack.desenvolvedor.expert/appendix/docker/criandoimagem.html
+https://imasters.com.br/desenvolvimento/publicando-container-node-no-heroku

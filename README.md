@@ -24,6 +24,10 @@ Para executar uma imagem que criamos, precisamos colocar a porta que ira rodar e
 Ou podemos clicar no botão <b> RUN</b> do  software<br>
 ![run](https://user-images.githubusercontent.com/42754908/142762437-6d1bacef-6a5d-45f2-8f35-8389376c5900.png)
  
+Para visualizar a nossa aplicação, vai em um navegador e digitena url:
+http://localhost/<br>
+![dados](https://user-images.githubusercontent.com/42754908/142762666-aeb8a446-b64d-404e-b003-8c4ea8a221a6.png)
+Nossa aplicação tem uma funcionalidade, na qual, vai gerar uma cnpj  e retornar um cnpj válido.
 
 <h2>Bibliografia </h2>
 https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/

@@ -11,7 +11,7 @@
 Para criamos uma imagem em Docker, precisamos informar o nome do nossa imagem e o diretorio no comando:
 docker build -t atividade-container-eng .
 Para visualizamos se foi criado, podemos digitar no terminar:
-<b>docker images</b>
+<b>$ docker images</b>
 <h2>Bibliografia </h2>
 https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/
 https://stack.desenvolvedor.expert/appendix/docker/criandoimagem.html

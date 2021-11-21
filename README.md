@@ -48,6 +48,6 @@ Basta acessar o url: https://atividade-container-eng.herokuapp.com/<br>
 
 
 <h2>Bibliografia </h2>
-https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/
-https://stack.desenvolvedor.expert/appendix/docker/criandoimagem.html
+https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/<br>
+https://stack.desenvolvedor.expert/appendix/docker/criandoimagem.html <br>
 https://imasters.com.br/desenvolvimento/publicando-container-node-no-heroku

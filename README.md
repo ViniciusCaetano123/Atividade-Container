@@ -13,6 +13,9 @@
 
 Para visualizamos se foi criado, podemos digitar no terminar:<br>
 <b>$ docker images</b>
+![cokerfile](https://user-images.githubusercontent.com/42754908/142761823-b9f52f67-492d-425d-a900-fd71e215cd94.png)<br>
+Ou podemos visualizar atravez do sotware que foi instalado na nossa maquina
+
 <h2>Bibliografia </h2>
 https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/
 https://stack.desenvolvedor.expert/appendix/docker/criandoimagem.html

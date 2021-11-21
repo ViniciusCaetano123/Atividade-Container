@@ -8,7 +8,10 @@
 <p><b>RUN</b> -  Rodar alguem comando que foi definido como parametrno, no nosso caso, o npm install</p>
 <p><b>EXPOSE</b> -  Expor a porta do nosso servidor web</p>
 <p><b>CMD</b> -  Comando para inicializar o servidor</p>
-
+Para criamos uma imagem em Docker, precisamos informar o nome do nossa imagem e o diretorio no comando:
+docker build -t atividade-container-eng .
+Para visualizamos se foi criado, podemos digitar no terminar:
+<b>docker images</b>
 <h2>Bibliografia </h2>
 https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/
 https://stack.desenvolvedor.expert/appendix/docker/criandoimagem.html

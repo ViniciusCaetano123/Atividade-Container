@@ -37,7 +37,12 @@ Para criar uma aplicação, podemos ir direto no sites, efetuar o login e depois
 
 Para vincular o nosso repositorio local com o  heroku, basta digitar: <br>
 <b>heroku git:remote -a atividade-container-eng</b>
-
+E depoois digitar o comando os seguintes comandos para subir ele pro heroku:
+1. <b> git add *</b><br>
+2. <b> git commit -m  "primeiro"</b><br>
+3. <b> git push heroku master</b><br>
+E o nosso deploy com o container esta finalizado.<br>
+Basta acessar o url: https://atividade-container-eng.herokuapp.com/
 <h2>Bibliografia </h2>
 https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/
 https://stack.desenvolvedor.expert/appendix/docker/criandoimagem.html

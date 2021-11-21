@@ -22,7 +22,7 @@ Para executar uma imagem que criamos, precisamos colocar a porta que ira rodar e
 <b>$ docker run -p 80:8080 atividade-container-eng</b><br>
 ![runing](https://user-images.githubusercontent.com/42754908/142762472-f35c87cb-ba48-4d91-8cc5-9e612260b359.png)
 
-Ou podemos clicar no botão <b> RUN</b>  <br>
+Ou podemos clicar no botão <b> RUN</b>  <br>k
 ![run](https://user-images.githubusercontent.com/42754908/142762437-6d1bacef-6a5d-45f2-8f35-8389376c5900.png)
  
 

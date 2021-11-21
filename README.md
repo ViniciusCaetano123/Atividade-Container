@@ -7,6 +7,7 @@
 <p><b>COPY</b> - Copiar os arquivos para a pasta, na qual foi definida como parametro no  workdir </p>
 <p><b>RUN</b> -  Rodar alguem comando que foi definido como parametrno, no nosso caso, o npm install</p>
 <p><b>EXPOSE</b> -  Expor a porta do nosso servidor web</p>
+<p><b>CMD</b> -  Comando para inicializar o servidor</p>
 
 <h2>Bibliografia </h2>
 https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/

@@ -8,13 +8,13 @@
 <p><b>RUN</b> -  Rodar alguem comando que foi definido como parametrno, no nosso caso, o npm install</p>
 <p><b>EXPOSE</b> -  Expor a porta do nosso servidor web</p>
 <p><b>CMD</b> -  Comando para inicializar o servidor</p>
-<p> Para criamos uma imagem em Docker, precisamos informar o nome do nossa imagem e o diretorio no comando:<br>
+<p> Para criamos uma imagem em Docker, precisamos informar o nome do nossa imagem e o diretorio, basta digitar no terminal:<br>
 <b>$docker build -t atividade-container-eng .</b></p>
 
-Para visualizamos se foi criado, podemos digitar no terminar:<br>
+Para visualizamos se foi criado, podemos digitar:<br>
 <b>$ docker images</b> <br>![imagens](https://user-images.githubusercontent.com/42754908/142762410-f59d7a39-8e26-4c77-b5f2-e67cdebed046.png)
 <br>
-Ou podemos visualizar atravez do software que foi instalado na nossa maquina<br>
+Ou podemos visualizar atravéz do software que foi instalado na nossa máquina<br>
 ![dockerimagens](https://user-images.githubusercontent.com/42754908/142762420-74c901a7-a31b-4d48-9211-6bee8b99feb9.png)<br>
 
 Para executar uma imagem que criamos, precisamos colocar a porta que ira rodar e o nome da imagem: <br>

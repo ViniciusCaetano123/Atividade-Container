@@ -12,15 +12,18 @@
 <b>$docker build -t atividade-container-eng .</b></p>
 
 Para visualizamos se foi criado, podemos digitar no terminar:<br>
-<b>$ docker images</b> <br>![imagens](https://user-images.githubusercontent.com/42754908/142761896-a0b56c72-29d5-4cd9-b000-4e43fd43e2af.png)
+<b>$ docker images</b> <br>![imagens](https://user-images.githubusercontent.com/42754908/142762410-f59d7a39-8e26-4c77-b5f2-e67cdebed046.png)
+
 <br>
 Ou podemos visualizar atravez do software que foi instalado na nossa maquina<br>
-![dockerimagens](https://user-images.githubusercontent.com/42754908/142761986-9a9366e4-ccbd-42c1-82b9-2af68c36b10d.png)
+![dockerimagens](https://user-images.githubusercontent.com/42754908/142762420-74c901a7-a31b-4d48-9211-6bee8b99feb9.png)
 <p>Para executar uma imagem que criamos, precisamos colocar a porta que ira rodar e o nome da imagem: <br>
 <b>$ docker run -p 80:8080 atividade-container-eng</b><br>
-![runing](https://user-images.githubusercontent.com/42754908/142762288-d578d27d-4959-4a1c-84bd-b8a4afe5d3e8.png)
+![image](https://user-images.githubusercontent.com/42754908/142762432-fa5a501c-da62-440a-b520-755a5eb88798.png)
+
+
 Ou podemos clicar no botão <b> RUN</b>  <br>
- ![run](https://user-images.githubusercontent.com/42754908/142762379-c3f43817-4473-4f34-a7e0-9e520ac017b1.png)
+![run](https://user-images.githubusercontent.com/42754908/142762437-6d1bacef-6a5d-45f2-8f35-8389376c5900.png)
  
 </p>
 <h2>Bibliografia </h2>

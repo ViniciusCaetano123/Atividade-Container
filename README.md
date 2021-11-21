@@ -19,7 +19,9 @@ Ou podemos visualizar atravez do software que foi instalado na nossa maquina<br>
 <p>Para executar uma imagem que criamos, precisamos colocar a porta que ira rodar e o nome da imagem: <br>
 <b>$ docker run -p 80:8080 atividade-container-eng</b><br>
 ![runing](https://user-images.githubusercontent.com/42754908/142762288-d578d27d-4959-4a1c-84bd-b8a4afe5d3e8.png)
-
+Ou podemos clicar no botão <b> RUN</b>  <br>
+ ![run](https://user-images.githubusercontent.com/42754908/142762379-c3f43817-4473-4f34-a7e0-9e520ac017b1.png)
+ 
 </p>
 <h2>Bibliografia </h2>
 https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/

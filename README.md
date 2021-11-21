@@ -30,7 +30,8 @@ http://localhost/<br>
 Nossa aplicação tem uma funcionalidade, na qual, vai gerar uma cnpj  e retornar um cnpj válido.<br>
 <h2>Subir a aplicação para o Heroku</h2>
 Para criar uma aplicação, podemos ir direto no sites deles e criar.<br>
-![criar aplicação](https://user-images.githubusercontent.com/42754908/142762941-58e48281-394b-4790-a386-8726872699ca.png)
+![criar aplicação](https://user-images.githubusercontent.com/42754908/142762949-5f9e9b68-ae35-463d-9d6f-d05497eb028a.png)
+
 
 <h2>Bibliografia </h2>
 https://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/
